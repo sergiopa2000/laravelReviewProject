@@ -1,0 +1,9 @@
+body{
+    overflow: hidden;
+}
+
+main .container{
+    padding: 0;
+     width: 100%;
+     max-width: unset;
+}

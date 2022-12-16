@@ -1,0 +1,1 @@
+Laraberg.init('createNewReview');
